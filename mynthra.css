@@ -1,0 +1,61 @@
+.container{
+    display: flex;
+    gap:13px;
+    flex-wrap: wrap;
+}
+.women
+    {
+    width: 200px;
+    height: 350px;
+    background-image:url(women2.jpeg);
+    align-content: flex-end;
+    border-radius: 35px;
+}
+.card{
+    background-color: rgb(201, 130, 54);
+    height:85px;
+    width: 200px;
+    text-align: center;
+    border-radius: 35px;
+}
+.men{
+background-image: url(men.jpeg);
+width: 201px;
+height:350px;
+align-content: flex-end;
+border-radius: 35px;
+}
+.card2
+{
+     background-color:rgb(100, 130, 167);
+    align-content: flex-end;
+    height:100px;
+    width: px;
+    border-radius: 35px;
+     text-align: center;
+
+}
+.kids{
+    background-image:url(kids.jpeg);
+    width: 201px;
+    height: 350px;
+    align-content: flex-end;
+    border-radius: 35px;
+}
+.card3
+{
+     background-color:rgb(122, 36, 63);
+    align-content: flex-end;
+    height:100px;
+    width: px;
+     text-align: center;
+     border-radius: 35px;
+
+}
+.font{
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+}

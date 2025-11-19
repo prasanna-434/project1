@@ -1,0 +1,42 @@
+
+        .heading
+        {
+            background-color: blueviolet;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-size: medium;
+            font-weight: 100px;
+        }
+        .box1
+        {
+            width: 300px;
+            height: 100px;
+            background-color: aquamarine;
+        }
+        .box2
+        {
+            width: 300px;
+            height: 100px;
+            background-color: rgb(18, 119, 85);
+        }
+        .box{
+            width: 200px;
+            height: 100px;
+            background-color: brown;
+          }
+        .content{
+            width: 200px;
+            height: 200px;
+            background-color: skyblue;
+            color: aquamarine;
+            padding-left: 50px;
+            border: 10px dotted black;
+        }
+        .prasanna
+        {
+            background-color: pink;
+        }
+        .font{
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}

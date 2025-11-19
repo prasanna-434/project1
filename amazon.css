@@ -1,0 +1,53 @@
+.container{
+  display: flex;
+  gap: 20px;
+  
+}
+.homedecors{
+    background-color:rgb(244, 247, 249);
+    width: 280px;
+    height:250px ;
+    margin: 45px;
+    padding: 40px;
+    flex-wrap: wrap;
+}
+.card{
+    display: flex;
+    gap: 15px;
+  }
+  .card2{
+    height: 95px;
+    width: 100px;
+  }
+  .card3{
+    display: flex;
+    gap: 15px;
+  }
+  .card4{
+    height: 95px;
+    width: 100px;
+  }
+  .homedecors1{
+    background-color:rgb(244, 247, 249);
+    width: 280px;
+    height:250px ;
+    margin: 45px;
+    padding: 40px;
+    flex-wrap: wrap;
+ }
+ .card5{
+    display: flex;
+    gap: 15px;
+  }
+  .card6{
+    height: 95px;
+    width: 100px;
+  }
+  .card7{
+    display: flex;
+    gap: 15px;
+  }
+  .card8{
+    height: 95px;
+    width: 100px;
+  }
